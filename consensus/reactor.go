@@ -23,11 +23,11 @@ import (
 
 	"go.uber.org/zap"
 
-	sm "gitlab.zhonganonline.com/ann/angine/state"
-	"gitlab.zhonganonline.com/ann/angine/types"
-	. "gitlab.zhonganonline.com/ann/ann-module/lib/go-common"
-	"gitlab.zhonganonline.com/ann/ann-module/lib/go-p2p"
-	"gitlab.zhonganonline.com/ann/ann-module/lib/go-wire"
+	sm "github.com/annchain/angine/state"
+	"github.com/annchain/angine/types"
+	. "github.com/annchain/ann-module/lib/go-common"
+	"github.com/annchain/ann-module/lib/go-p2p"
+	"github.com/annchain/ann-module/lib/go-wire"
 )
 
 const (

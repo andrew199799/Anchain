@@ -15,7 +15,7 @@
 package types
 
 import (
-	"gitlab.zhonganonline.com/ann/ann-module/lib/go-merkle"
+	"github.com/annchain/ann-module/lib/go-merkle"
 )
 
 type Tx []byte

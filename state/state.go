@@ -23,12 +23,12 @@ import (
 
 	"go.uber.org/zap"
 
-	"gitlab.zhonganonline.com/ann/angine/plugin"
-	"gitlab.zhonganonline.com/ann/angine/types"
-	. "gitlab.zhonganonline.com/ann/ann-module/lib/go-common"
-	cfg "gitlab.zhonganonline.com/ann/ann-module/lib/go-config"
-	dbm "gitlab.zhonganonline.com/ann/ann-module/lib/go-db"
-	"gitlab.zhonganonline.com/ann/ann-module/lib/go-wire"
+	"github.com/annchain/angine/plugin"
+	"github.com/annchain/angine/types"
+	. "github.com/annchain/ann-module/lib/go-common"
+	cfg "github.com/annchain/ann-module/lib/go-config"
+	dbm "github.com/annchain/ann-module/lib/go-db"
+	"github.com/annchain/ann-module/lib/go-wire"
 )
 
 var (

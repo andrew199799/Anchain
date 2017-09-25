@@ -15,10 +15,10 @@
 package plugin
 
 import (
-	"gitlab.zhonganonline.com/ann/angine/refuse_list"
-	"gitlab.zhonganonline.com/ann/angine/types"
-	"gitlab.zhonganonline.com/ann/ann-module/lib/go-crypto"
-	"gitlab.zhonganonline.com/ann/ann-module/lib/go-p2p"
+	"github.com/annchain/angine/refuse_list"
+	"github.com/annchain/angine/types"
+	"github.com/annchain/ann-module/lib/go-crypto"
+	"github.com/annchain/ann-module/lib/go-p2p"
 )
 
 const (

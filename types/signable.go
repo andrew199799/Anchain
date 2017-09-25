@@ -18,8 +18,8 @@ import (
 	"bytes"
 	"io"
 
-	. "gitlab.zhonganonline.com/ann/ann-module/lib/go-common"
-	"gitlab.zhonganonline.com/ann/ann-module/lib/go-merkle"
+	. "github.com/annchain/ann-module/lib/go-common"
+	"github.com/annchain/ann-module/lib/go-merkle"
 )
 
 // Signable is an interface for all signable things.

@@ -15,7 +15,7 @@
 package consensus
 
 import (
-	. "gitlab.zhonganonline.com/ann/ann-module/lib/go-common"
+	. "github.com/annchain/ann-module/lib/go-common"
 )
 
 // kind of arbitrary

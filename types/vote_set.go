@@ -20,7 +20,7 @@ import (
 	"strings"
 	"sync"
 
-	. "gitlab.zhonganonline.com/ann/ann-module/lib/go-common"
+	. "github.com/annchain/ann-module/lib/go-common"
 )
 
 /*

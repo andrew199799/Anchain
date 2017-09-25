@@ -15,7 +15,7 @@
 package consensus
 
 import (
-	"gitlab.zhonganonline.com/ann/angine/types"
+	"github.com/annchain/angine/types"
 )
 
 // XXX: WARNING: these functions can halt the consensus as firing events is synchronous.

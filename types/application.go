@@ -24,10 +24,10 @@ import (
 	"github.com/tendermint/tmlibs/db"
 	"go.uber.org/zap"
 
-	cmn "gitlab.zhonganonline.com/ann/ann-module/lib/go-common"
-	"gitlab.zhonganonline.com/ann/ann-module/lib/go-config"
-	"gitlab.zhonganonline.com/ann/ann-module/lib/go-crypto"
-	"gitlab.zhonganonline.com/ann/ann-module/lib/go-wire"
+	cmn "github.com/annchain/ann-module/lib/go-common"
+	"github.com/annchain/ann-module/lib/go-config"
+	"github.com/annchain/ann-module/lib/go-crypto"
+	"github.com/annchain/ann-module/lib/go-wire"
 )
 
 var lastBlockKey = []byte("lastblock")

@@ -21,9 +21,9 @@ import (
 
 	"go.uber.org/zap"
 
-	"gitlab.zhonganonline.com/ann/angine/types"
-	. "gitlab.zhonganonline.com/ann/ann-module/lib/go-common"
-	flow "gitlab.zhonganonline.com/ann/ann-module/lib/go-flowrate/flowrate"
+	"github.com/annchain/angine/types"
+	. "github.com/annchain/ann-module/lib/go-common"
+	flow "github.com/annchain/ann-module/lib/go-flowrate/flowrate"
 )
 
 const (

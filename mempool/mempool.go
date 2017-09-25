@@ -22,11 +22,11 @@ import (
 
 	"go.uber.org/zap"
 
-	"gitlab.zhonganonline.com/ann/angine/types"
-	auto "gitlab.zhonganonline.com/ann/ann-module/lib/go-autofile"
-	"gitlab.zhonganonline.com/ann/ann-module/lib/go-clist"
-	cmn "gitlab.zhonganonline.com/ann/ann-module/lib/go-common"
-	cfg "gitlab.zhonganonline.com/ann/ann-module/lib/go-config"
+	"github.com/annchain/angine/types"
+	auto "github.com/annchain/ann-module/lib/go-autofile"
+	"github.com/annchain/ann-module/lib/go-clist"
+	cmn "github.com/annchain/ann-module/lib/go-common"
+	cfg "github.com/annchain/ann-module/lib/go-config"
 )
 
 const cacheSize = 100000

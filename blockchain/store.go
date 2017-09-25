@@ -21,10 +21,10 @@ import (
 	"io"
 	"sync"
 
-	"gitlab.zhonganonline.com/ann/angine/types"
-	. "gitlab.zhonganonline.com/ann/ann-module/lib/go-common"
-	dbm "gitlab.zhonganonline.com/ann/ann-module/lib/go-db"
-	"gitlab.zhonganonline.com/ann/ann-module/lib/go-wire"
+	"github.com/annchain/angine/types"
+	. "github.com/annchain/ann-module/lib/go-common"
+	dbm "github.com/annchain/ann-module/lib/go-db"
+	"github.com/annchain/ann-module/lib/go-wire"
 )
 
 /*

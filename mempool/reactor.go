@@ -21,11 +21,11 @@ import (
 
 	"go.uber.org/zap"
 
-	"gitlab.zhonganonline.com/ann/angine/types"
-	"gitlab.zhonganonline.com/ann/ann-module/lib/go-clist"
-	cfg "gitlab.zhonganonline.com/ann/ann-module/lib/go-config"
-	"gitlab.zhonganonline.com/ann/ann-module/lib/go-p2p"
-	"gitlab.zhonganonline.com/ann/ann-module/lib/go-wire"
+	"github.com/annchain/angine/types"
+	"github.com/annchain/ann-module/lib/go-clist"
+	cfg "github.com/annchain/ann-module/lib/go-config"
+	"github.com/annchain/ann-module/lib/go-p2p"
+	"github.com/annchain/ann-module/lib/go-wire"
 )
 
 const (

@@ -22,8 +22,8 @@ import (
 
 	"go.uber.org/zap"
 
-	. "gitlab.zhonganonline.com/ann/ann-module/lib/go-common"
-	"gitlab.zhonganonline.com/ann/ann-module/lib/go-merkle"
+	. "github.com/annchain/ann-module/lib/go-common"
+	"github.com/annchain/ann-module/lib/go-merkle"
 )
 
 // ValidatorSet represent a set of *Validator at a given height.

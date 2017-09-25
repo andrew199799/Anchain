@@ -19,10 +19,10 @@ import (
 
 	"go.uber.org/zap"
 
-	"gitlab.zhonganonline.com/ann/angine/plugin"
-	"gitlab.zhonganonline.com/ann/angine/types"
-	cmn "gitlab.zhonganonline.com/ann/ann-module/lib/go-common"
-	cfg "gitlab.zhonganonline.com/ann/ann-module/lib/go-config"
+	"github.com/annchain/angine/plugin"
+	"github.com/annchain/angine/types"
+	cmn "github.com/annchain/ann-module/lib/go-common"
+	cfg "github.com/annchain/ann-module/lib/go-config"
 )
 
 //--------------------------------------------------
